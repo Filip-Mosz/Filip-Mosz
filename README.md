@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Filip-Mosz a.k.a. Filip Moszczyński
 - 👀 I’m interested in starting career as Java Developer
 but also Traditional archery and Medieval reenactment
-- 🌱 I’m currently learning Java and some tools that i may use with Java
+- 🌱 I’m currently polishing my Java skills and some tools that i may use with Java
 - 👷‍♂️: But mostly I'm working as Integration Developer at Frends Poland
 - 📫 To reach me check my LinkedIn profile: https://www.linkedin.com/in/filip-moszczynski-gdy/
 
